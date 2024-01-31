@@ -1,0 +1,15 @@
+//Initializing
+(npm init) 
+
+
+//Commands for installing express, mongoose and dotenv files
+ (npm i express dotenv mongoose colors)
+
+
+//Dev Dependencies 
+ (npm i -D nodemon)
+
+ nodemon => (a tool that helps develop Node. js based applications by automatically 
+            restarting the node application when file changes in the directory are detected.)
+
+
